@@ -17,3 +17,8 @@ The main Implementation has been done on XCEPTION model(pre-trained) and Custom 
 
 Finally the model is compared with the current SOTA GradCam model and is found that Ablation Cam performs better in some cases which have been discussed in the summary sheet separately.<br><br>
 
+# Visualization
+
+<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/dog_pt_final.jpeg" alt="result image"/> <br>
+<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/cat_pt_final.jpeg" alt="result image"/> <br>
+
