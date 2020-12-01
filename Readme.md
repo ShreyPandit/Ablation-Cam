@@ -19,6 +19,6 @@ Finally the model is compared with the current SOTA GradCam model and is found t
 
 # Visualization
 
-<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/dog_pt_final.jpeg" alt="result image" width="400" height="400" > <br>
-<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/cat_pt_final.jpeg" alt="result image" width="400" height="400"> <br>
+<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/dog_pt_final.jpeg" alt="result image" width="200" height="200" > <br>
+<img src="./1.Ablation_Cam/Pre-trainedModel/Results/Ablation_Cam/cat_pt_final.jpeg" alt="result image" width="200" height="200"> <br>
 
